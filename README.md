@@ -1,2 +1,3 @@
 # IRRemoteDriver
+Example of the IR remote sensor reading and returning a string of the button...
  
